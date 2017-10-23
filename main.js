@@ -14,13 +14,17 @@ $(document).ready(function(){
             // const changedResp = parser.parseFromString(resp, "text/xml"); //resp is now
             // console.log('changed resp:', changedResp);
 
-            //use jQuery to look through the xml response
-            $(resp).find('entry').each(function(){
-                document.body.innerHTML += $(this).find('title').text();
-            });
+            // //use jQuery to look through the xml response
+            // $(resp).find('entry').each(function(){
+            //     document.body.innerHTML += $(this).find('title').text();
+            // });
 
             //actually, just use jQuery to find the table already made for the front end and add it straight to the dom
 
+            // $('document').append(resp);
+            $('#target').html($(resp).find('table'))
+
+            // $('table').addClass('table')
 
             // document.body.innerHTML += resp.attributes;
         },
