@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+		<id>http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topMovies/xml</id><title>iTunes Store: Top Movies</title><updated>2017-10-22T16:03:55-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=us&amp;id=1&amp;popId=15"/><link rel="self" href="http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/ws/RSS/topMovies/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+			<entry>
+				<updated>2017-10-22T16:03:55-07:00</updated>
+				
+					<id im:id="1243195844">https://itunes.apple.com/us/movie/spider-man-homecoming/id1243195844?uo=2</id>
+				
+					<title>Spider-Man: Homecoming - Jon Watts</title>
+				
+					<summary>Spider-Man [Tom Holland] begins to navigate his new identity as the web-slinging super hero under the watchful eye of his mentor Tony Stark.</summary>
+				
+					<im:name>Spider-Man: Homecoming</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/spider-man-homecoming/id1243195844?uo=2"/>
+				
+					<im:contentType term="Movie" label="Movie"/>
+				
+					<category im:id="4401" term="Action &amp; Adventure" scheme="https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2" label="Action &amp; Adventure"/>
+				
+					<link title="Preview" rel="enclosure" type="video/x-m4v" href="http://video.itunes.apple.com/apple-assets-us-std-000001/Video117/v4/2c/f6/e6/2cf6e630-8f12-e721-c80d-b689aa8f9804/mzvf_1371130011356140075.640x354.h264lc.U.p.m4v" im:assetType="preview"><im:duration>145792.0</im:duration></link>
+				
+					<im:artist>Jon Watts</im:artist>
+				
+					<im:price amount="19.99000" currency="USD">$19.99</im:price>
+				
+					<im:rentalPrice amount="5.99000" currency="USD">$5.99</im:rentalPrice>
+				
+					<im:image height="60">http://is4.mzstatic.com/image/thumb/Video127/v4/cc/38/68/cc386876-9503-24bc-fa39-cb5b567e5c5b/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is4.mzstatic.com/image/thumb/Video127/v4/cc/38/68/cc386876-9503-24bc-fa39-cb5b567e5c5b/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is3.mzstatic.com/image/thumb/Video127/v4/cc/38/68/cc386876-9503-24bc-fa39-cb5b567e5c5b/pr_source.lsr/170x170bb-85.jpg</im:image>
+				
+					<im:releaseDate label="July 5, 2017">2017-07-05T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/movie/spider-man-homecoming/id1243195844?uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Jon Watts - Spider-Man: Homecoming  artwork&quot; src=&quot;http://is3.mzstatic.com/image/thumb/Video127/v4/cc/38/68/cc386876-9503-24bc-fa39-cb5b567e5c5b/pr_source.lsr/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/movie/spider-man-homecoming/id1243195844?uo=2&quot;&gt;Spider-Man: Homecoming&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        Jon Watts
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2&quot;&gt;Action &amp; Adventure&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $5.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; July 5, 2017
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Spider-Man [Tom Holland] begins to navigate his new identity as the web-slinging super hero under the watchful eye of his mentor Tony Stark.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-10-22T16:03:55-07:00</updated>
+				
+					<id im:id="1239575681">https://itunes.apple.com/us/movie/baby-driver/id1239575681?uo=2</id>
+				
+					<title>Baby Driver - Edgar Wright</title>
+				
+					<summary>Follows a talented, young getaway driver who relies on the beat of his personal soundtrack to be the best in the game. After being coerced into working for a crime boss, he must face the music when a doomed heist threatens his life, love and freedom.</summary>
+				
+					<im:name>Baby Driver</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/baby-driver/id1239575681?uo=2"/>
+				
+					<im:contentType term="Movie" label="Movie"/>
+				
+					<category im:id="4401" term="Action &amp; Adventure" scheme="https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2" label="Action &amp; Adventure"/>
+				
+					<link title="Preview" rel="enclosure" type="video/x-m4v" href="http://video.itunes.apple.com/apple-assets-us-std-000001/Video127/v4/b1/2c/3a/b12c3aae-e9ec-72ce-8d91-048b41f2d312/mzvf_8437001970878716979.640x354.h264lc.U.p.m4v" im:assetType="preview"><im:duration>153503.0</im:duration></link>
+				
+					<im:artist>Edgar Wright</im:artist>
+				
+					<im:price amount="19.99000" currency="USD">$19.99</im:price>
+				
+					<im:rentalPrice amount="5.99000" currency="USD">$5.99</im:rentalPrice>
+				
+					<im:image height="60">http://is5.mzstatic.com/image/thumb/Video118/v4/a0/aa/35/a0aa35f6-e4ed-a9bf-00a3-9ef3d341147b/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is5.mzstatic.com/image/thumb/Video118/v4/a0/aa/35/a0aa35f6-e4ed-a9bf-00a3-9ef3d341147b/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is4.mzstatic.com/image/thumb/Video118/v4/a0/aa/35/a0aa35f6-e4ed-a9bf-00a3-9ef3d341147b/pr_source.lsr/170x170bb-85.jpg</im:image>
+				
+					<rights>&#169; 2017 Big Talk Productions</rights>
+				
+					<im:releaseDate label="June 28, 2017">2017-06-28T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/movie/baby-driver/id1239575681?uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Edgar Wright - Baby Driver  artwork&quot; src=&quot;http://is4.mzstatic.com/image/thumb/Video118/v4/a0/aa/35/a0aa35f6-e4ed-a9bf-00a3-9ef3d341147b/pr_source.lsr/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/movie/baby-driver/id1239575681?uo=2&quot;&gt;Baby Driver&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        Edgar Wright
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2&quot;&gt;Action &amp; Adventure&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $5.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; June 28, 2017
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Follows a talented, young getaway driver who relies on the beat of his personal soundtrack to be the best in the game. After being coerced into working for a crime boss, he must face the music when a doomed heist threatens his life, love and freedom.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2017 Big Talk Productions&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-10-22T16:03:55-07:00</updated>
+				
+					<id im:id="1257271045">https://itunes.apple.com/us/movie/girls-trip/id1257271045?uo=2</id>
+				
+					<title>Girls Trip - Malcolm D. Lee</title>
+				
+					<summary>When four lifelong friends-Regina Hall, Tiffany Haddish, Jada Pinkett Smith and Queen Latifah-travel to New Orleans for the annual Essence Festival, sisterhoods are rekindled, wild sides are rediscovered, and there&#39;s enough dancing, drinking, brawling and romancing to make the Big Easy blush.</summary>
+				
+					<im:name>Girls Trip</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/girls-trip/id1257271045?uo=2"/>
+				
+					<im:contentType term="Movie" label="Movie"/>
+				
+					<category im:id="4404" term="Comedy" scheme="https://itunes.apple.com/us/genre/movies-comedy/id4404?uo=2" label="Comedy"/>
+				
+					<link title="Preview" rel="enclosure" type="video/x-m4v" href="http://video.itunes.apple.com/apple-assets-us-std-000001/Video118/v4/f9/9a/46/f99a4682-1a0d-bf39-fde8-dd1308ba9647/mzvf_4694288958982474154.640x352.h264lc.U.p.m4v" im:assetType="preview"><im:duration>150655.0</im:duration></link>
+				
+					<im:artist>Malcolm D. Lee</im:artist>
+				
+					<im:price amount="14.99000" currency="USD">$14.99</im:price>
+				
+					<im:rentalPrice amount="5.99000" currency="USD">$5.99</im:rentalPrice>
+				
+					<im:image height="60">http://is3.mzstatic.com/image/thumb/Video128/v4/64/2c/02/642c02c5-3ea8-7426-78ca-efba6750b5e3/02481_MLNA_GirlsTrip_LSR_2000x3000.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is3.mzstatic.com/image/thumb/Video128/v4/64/2c/02/642c02c5-3ea8-7426-78ca-efba6750b5e3/02481_MLNA_GirlsTrip_LSR_2000x3000.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is2.mzstatic.com/image/thumb/Video128/v4/64/2c/02/642c02c5-3ea8-7426-78ca-efba6750b5e3/02481_MLNA_GirlsTrip_LSR_2000x3000.lsr/170x170bb-85.jpg</im:image>
+				
+					<rights>&#169; 2017 Universal Studios. All Rights Reserved.</rights>
+				
+					<im:releaseDate label="July 21, 2017">2017-07-21T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/movie/girls-trip/id1257271045?uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Malcolm D. Lee - Girls Trip  artwork&quot; src=&quot;http://is2.mzstatic.com/image/thumb/Video128/v4/64/2c/02/642c02c5-3ea8-7426-78ca-efba6750b5e3/02481_MLNA_GirlsTrip_LSR_2000x3000.lsr/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/movie/girls-trip/id1257271045?uo=2&quot;&gt;Girls Trip&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        Malcolm D. Lee
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/movies-comedy/id4404?uo=2&quot;&gt;Comedy&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $14.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $5.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; July 21, 2017
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;When four lifelong friends-Regina Hall, Tiffany Haddish, Jada Pinkett Smith and Queen Latifah-travel to New Orleans for the annual Essence Festival, sisterhoods are rekindled, wild sides are rediscovered, and there&amp;#39;s enough dancing, drinking, brawling and romancing to make the Big Easy blush.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2017 Universal Studios. All Rights Reserved.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-10-22T16:03:55-07:00</updated>
+				
+					<id im:id="1178255852">https://itunes.apple.com/us/movie/office-christmas-party/id1178255852?uo=2</id>
+				
+					<title>Office Christmas Party - Will Speck &amp; Josh Gordon</title>
+				
+					<summary>This wild and outrageous comedy features a NEW UNRATED CUT with footage not shown in theaters, included in iTunes Extras! When an overbearing CEO (Jennifer Aniston) decides to close her hard-partying brother’s failing branch, he (T.J. Miller) and his fired up co-workers (Jason Bateman, Olivia Munn, Kate McKinnon) decide to throw an epic office party to land a big shot client and save everyone’s jobs.  Fueled by booze and bad decisions, things quickly spiral out-of-control in this wild and raunchy comedy. Get ready to work hard and play harder!
+</summary>
+				
+					<im:name>Office Christmas Party</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/office-christmas-party/id1178255852?uo=2"/>
+				
+					<im:contentType term="Movie" label="Movie"/>
+				
+					<category im:id="4404" term="Comedy" scheme="https://itunes.apple.com/us/genre/movies-comedy/id4404?uo=2" label="Comedy"/>
+				
+					<link title="Preview" rel="enclosure" type="video/x-m4v" href="http://video.itunes.apple.com/apple-assets-us-std-000001/Video122/v4/ac/6d/52/ac6d52d4-b394-f109-849e-abff1979c0d5/mzvf_1167988841095130791.640x356.h264lc.U.p.m4v" im:assetType="preview"><im:duration>137760.0</im:duration></link>
+				
+					<im:artist>Will Speck &amp; Josh Gordon</im:artist>
+				
+					<im:price amount="9.99000" currency="USD">$9.99</im:price>
+				
+					<im:rentalPrice amount="0.99000" currency="USD">$0.99</im:rentalPrice>
+				
+					<im:image height="60">http://is1.mzstatic.com/image/thumb/Video111/v4/ff/89/2a/ff892ab9-bcab-6b24-598b-d67cbf4828ca/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is1.mzstatic.com/image/thumb/Video111/v4/ff/89/2a/ff892ab9-bcab-6b24-598b-d67cbf4828ca/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is4.mzstatic.com/image/thumb/Video111/v4/ff/89/2a/ff892ab9-bcab-6b24-598b-d67cbf4828ca/pr_source.lsr/170x170bb-85.jpg</im:image>
+				
+					<rights>&#169; 2016 Storyteller Distribution Co., LLC.</rights>
+				
+					<im:releaseDate label="December 16, 2016">2016-12-16T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/movie/office-christmas-party/id1178255852?uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Will Speck &amp; Josh Gordon - Office Christmas Party  artwork&quot; src=&quot;http://is4.mzstatic.com/image/thumb/Video111/v4/ff/89/2a/ff892ab9-bcab-6b24-598b-d67cbf4828ca/pr_source.lsr/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/movie/office-christmas-party/id1178255852?uo=2&quot;&gt;Office Christmas Party&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        Will Speck &amp;amp; Josh Gordon
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/movies-comedy/id4404?uo=2&quot;&gt;Comedy&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $9.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $0.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; December 16, 2016
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;This wild and outrageous comedy features a NEW UNRATED CUT with footage not shown in theaters, included in iTunes Extras! When an overbearing CEO (Jennifer Aniston) decides to close her hard-partying brother’s failing branch, he (T.J. Miller) and his fired up co-workers (Jason Bateman, Olivia Munn, Kate McKinnon) decide to throw an epic office party to land a big shot client and save everyone’s jobs.  Fueled by booze and bad decisions, things quickly spiral out-of-control in this wild and raunchy comedy. Get ready to work hard and play harder!&lt;br/&gt;&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2016 Storyteller Distribution Co., LLC.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-10-22T16:03:55-07:00</updated>
+				
+					<id im:id="1235765633">https://itunes.apple.com/us/movie/wonder-woman-2017/id1235765633?uo=2</id>
+				
+					<title>Wonder Woman (2017) - Patty Jenkins</title>
+				
+					<summary>Before she was Wonder Woman, she was Diana, princess of the Amazons, trained to be an unconquerable warrior. Raised on a sheltered island paradise, when an American pilot crashes on their shores and tells of a massive conflict raging in the outside world, Diana leaves her home, convinced she can stop the threat. Fighting alongside man in a war to end all wars, Diana will discover her full powers… and her true destiny.</summary>
+				
+					<im:name>Wonder Woman (2017)</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/wonder-woman-2017/id1235765633?uo=2"/>
+				
+					<im:contentType term="Movie" label="Movie"/>
+				
+					<category im:id="4401" term="Action &amp; Adventure" scheme="https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2" label="Action &amp; Adventure"/>
+				
+					<link title="Preview" rel="enclosure" type="video/x-m4v" href="http://video.itunes.apple.com/apple-assets-us-std-000001/Video127/v4/aa/e0/f6/aae0f641-c5e1-bead-5094-9f842c7ff620/mzvf_8847721542367954600.640x352.h264lc.U.p.m4v" im:assetType="preview"><im:duration>143967.0</im:duration></link>
+				
+					<im:artist>Patty Jenkins</im:artist>
+				
+					<im:price amount="19.99000" currency="USD">$19.99</im:price>
+				
+					<im:rentalPrice amount="5.99000" currency="USD">$5.99</im:rentalPrice>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Video128/v4/b2/83/e5/b283e562-b7c6-ae86-1871-014952535459/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Video128/v4/b2/83/e5/b283e562-b7c6-ae86-1871-014952535459/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is4.mzstatic.com/image/thumb/Video128/v4/b2/83/e5/b283e562-b7c6-ae86-1871-014952535459/pr_source.lsr/170x170bb-85.jpg</im:image>
+				
+					<rights>&#169; 2017 Warner Bros. Entertainment Inc. and RatPac-Dune Entertainment LLC. WONDER WOMAN and all related characters and elements are trademarks of and copyright DC Comics.</rights>
+				
+					<im:releaseDate label="June 2, 2017">2017-06-02T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/movie/wonder-woman-2017/id1235765633?uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Patty Jenkins - Wonder Woman (2017)  artwork&quot; src=&quot;http://is4.mzstatic.com/image/thumb/Video128/v4/b2/83/e5/b283e562-b7c6-ae86-1871-014952535459/pr_source.lsr/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/movie/wonder-woman-2017/id1235765633?uo=2&quot;&gt;Wonder Woman (2017)&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        Patty Jenkins
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2&quot;&gt;Action &amp; Adventure&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $5.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; June 2, 2017
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Before she was Wonder Woman, she was Diana, princess of the Amazons, trained to be an unconquerable warrior. Raised on a sheltered island paradise, when an American pilot crashes on their shores and tells of a massive conflict raging in the outside world, Diana leaves her home, convinced she can stop the threat. Fighting alongside man in a war to end all wars, Diana will discover her full powers… and her true destiny.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2017 Warner Bros. Entertainment Inc. and RatPac-Dune Entertainment LLC. WONDER WOMAN and all related characters and elements are trademarks of and copyright DC Comics.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-10-22T16:03:55-07:00</updated>
+				
+					<id im:id="1254703623">https://itunes.apple.com/us/movie/the-dark-tower/id1254703623?uo=2</id>
+				
+					<title>The Dark Tower - Nikolaj Arcel</title>
+				
+					<summary>Based on the best-selling book series by highly-acclaimed author Stephen King, in the parallel realm of Mid-World, the once-respected Gunslinger Roland Deschain (Idris Elba), has abandoned his ancient oath to protect the Tower that is being threatened by the Man in Black (Matthew McConaughey) who seeks to destroy it and life across the universe.  In New York City, teenager Jake has recurring visions that signal the end of the universe and when he stumbles upon a hidden portal he travels to Mid-World, meets Roland and the two must embark on an adventure to find the Man in Black and save the Tower.</summary>
+				
+					<im:name>The Dark Tower</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/the-dark-tower/id1254703623?uo=2"/>
+				
+					<im:contentType term="Movie" label="Movie"/>
+				
+					<category im:id="4401" term="Action &amp; Adventure" scheme="https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2" label="Action &amp; Adventure"/>
+				
+					<link title="Preview" rel="enclosure" type="video/x-m4v" href="http://video.itunes.apple.com/apple-assets-us-std-000001/Video127/v4/4a/b3/cc/4ab3cc9a-4aaa-52ef-7446-41e874d45e0f/mzvf_6181999984070452345.640x354.h264lc.U.p.m4v" im:assetType="preview"><im:duration>128063.0</im:duration></link>
+				
+					<im:artist>Nikolaj Arcel</im:artist>
+				
+					<im:price amount="19.99000" currency="USD">$19.99</im:price>
+				
+					<im:image height="60">http://is5.mzstatic.com/image/thumb/Video118/v4/80/89/b1/8089b1fc-a59c-db11-6544-9b29c9d20d4f/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is5.mzstatic.com/image/thumb/Video118/v4/80/89/b1/8089b1fc-a59c-db11-6544-9b29c9d20d4f/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is5.mzstatic.com/image/thumb/Video118/v4/80/89/b1/8089b1fc-a59c-db11-6544-9b29c9d20d4f/pr_source.lsr/170x170bb-85.jpg</im:image>
+				
+					<rights>&#169; 2017 Columbia Pictures Industries , Inc. and MRC II Distribution Company L.P. All Rights Reserved.</rights>
+				
+					<im:releaseDate label="February 16, 2017">2017-02-16T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/movie/the-dark-tower/id1254703623?uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Nikolaj Arcel - The Dark Tower  artwork&quot; src=&quot;http://is5.mzstatic.com/image/thumb/Video118/v4/80/89/b1/8089b1fc-a59c-db11-6544-9b29c9d20d4f/pr_source.lsr/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/movie/the-dark-tower/id1254703623?uo=2&quot;&gt;The Dark Tower&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        Nikolaj Arcel
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/movies-action-adventure/id4401?uo=2&quot;&gt;Action &amp; Adventure&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $19.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; February 16, 2017
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Based on the best-selling book series by highly-acclaimed author Stephen King, in the parallel realm of Mid-World, the once-respected Gunslinger Roland Deschain (Idris Elba), has abandoned his ancient oath to protect the Tower that is being threatened by the Man in Black (Matthew McConaughey) who seeks to destroy it and life across the universe.  In New York City, teenager Jake has recurring visions that signal the end of the universe and when he stumbles upon a hidden portal he travels to Mid-World, meets Roland and the two must embark on an adventure to find the Man in Black and save the Tower.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2017 Columbia Pictures Industries , Inc. and MRC II Distribution Company L.P. All Rights Reserved.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-10-22T16:03:55-07:00</updated>
+				
+					<id im:id="1249200924">https://itunes.apple.com/us/movie/the-house-2017/id1249200924?uo=2</id>
+				
+					<title>The House (2017) - Andrew Jay Cohen</title>
+				
+					<summary>After Scott (Will Ferrell) and Kate (Amy Poehler) Johansen lose their daughter Alex’s college fund, they become desperate to earn it back so she can pursue her dream of attending a university. With the help of their neighbor Frank (Jason Mantzoukas), they decide to start an illegal casino in the basement of his house.</summary>
+				
+					<im:name>The House (2017)</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/the-house-2017/id1249200924?uo=2"/>
+				
+					<im:contentType term="Movie" label="Movie"/>
+				
+					<category im:id="4404" term="Comedy" scheme="https://itunes.apple.com/us/genre/movies-comedy/id4404?uo=2" label="Comedy"/>
+				
+					<link title="Preview" rel="enclosure" type="video/x-m4v" href="http://video.itunes.apple.com/apple-assets-us-std-000001/Video127/v4/de/33/ae/de33ae6b-abb6-f2ff-03fb-9102eacecf38/mzvf_3100840726679474559.640x354.h264lc.U.p.m4v" im:assetType="preview"><im:duration>146495.0</im:duration></link>
+				
+					<im:artist>Andrew Jay Cohen</im:artist>
+				
+					<im:price amount="14.99000" currency="USD">$14.99</im:price>
+				
+					<im:rentalPrice amount="5.99000" currency="USD">$5.99</im:rentalPrice>
+				
+					<im:image height="60">http://is3.mzstatic.com/image/thumb/Video118/v4/16/4e/3e/164e3ea2-b8a3-6427-e993-b1e8721da414/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is3.mzstatic.com/image/thumb/Video118/v4/16/4e/3e/164e3ea2-b8a3-6427-e993-b1e8721da414/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is4.mzstatic.com/image/thumb/Video118/v4/16/4e/3e/164e3ea2-b8a3-6427-e993-b1e8721da414/pr_source.lsr/170x170bb-85.jpg</im:image>
+				
+					<rights>&#169; 2017 Warner Bros. Entertainment Inc. All Rights Reserved.</rights>
+				
+					<im:releaseDate label="June 30, 2017">2017-06-30T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/movie/the-house-2017/id1249200924?uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Andrew Jay Cohen - The House (2017)  artwork&quot; src=&quot;http://is4.mzstatic.com/image/thumb/Video118/v4/16/4e/3e/164e3ea2-b8a3-6427-e993-b1e8721da414/pr_source.lsr/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/movie/the-house-2017/id1249200924?uo=2&quot;&gt;The House (2017)&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        Andrew Jay Cohen
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/movies-comedy/id4404?uo=2&quot;&gt;Comedy&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $14.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $5.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; June 30, 2017
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;After Scott (Will Ferrell) and Kate (Amy Poehler) Johansen lose their daughter Alex’s college fund, they become desperate to earn it back so she can pursue her dream of attending a university. With the help of their neighbor Frank (Jason Mantzoukas), they decide to start an illegal casino in the basement of his house.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2017 Warner Bros. Entertainment Inc. All Rights Reserved.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-10-22T16:03:55-07:00</updated>
+				
+					<id im:id="920639804">https://itunes.apple.com/us/movie/the-book-of-life/id920639804?uo=2</id>
+				
+					<title>The Book of Life - Jorge R. Gutierrez</title>
+				
+					<summary>This animated comedy from producer Guillermo del Toro and director Jorge Gutierrez follows the journey of Manolo, a young man who embarks on an adventure that spans three fantastical worlds where he must face his greatest fears. Rich with a fresh take on pop music favorites and featuring a unique visual style, it’s a story that encourages us to celebrate the past and look forward to the future.</summary>
+				
+					<im:name>The Book of Life</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/the-book-of-life/id920639804?uo=2"/>
+				
+					<im:contentType term="Movie" label="Movie"/>
+				
+					<category im:id="4410" term="Kids &amp; Family" scheme="https://itunes.apple.com/us/genre/movies-kids-family/id4410?uo=2" label="Kids &amp; Family"/>
+				
+					<link title="Preview" rel="enclosure" type="video/x-m4v" href="http://video.itunes.apple.com/apple-assets-us-std-000001/Video122/v4/03/58/4b/03584b77-510a-32f8-13d0-aae00e066e33/mzvf_2075327555921258154.640x354.h264lc.U.p.m4v" im:assetType="preview"><im:duration>143078.0</im:duration></link>
+				
+					<im:artist>Jorge R. Gutierrez</im:artist>
+				
+					<im:price amount="4.99000" currency="USD">$4.99</im:price>
+				
+					<im:rentalPrice amount="3.99000" currency="USD">$3.99</im:rentalPrice>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Video62/v4/96/6c/ba/966cbaae-37ac-e514-6f49-b74c97fb2bbe/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Video62/v4/96/6c/ba/966cbaae-37ac-e514-6f49-b74c97fb2bbe/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is4.mzstatic.com/image/thumb/Video62/v4/96/6c/ba/966cbaae-37ac-e514-6f49-b74c97fb2bbe/pr_source.lsr/170x170bb-85.jpg</im:image>
+				
+					<rights>&#169; 2014 Twentieth Century Fox Film Corporation and Reel FX Productions II, LLC.  All rights reserved.</rights>
+				
+					<im:releaseDate label="October 17, 2014">2014-10-17T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/movie/the-book-of-life/id920639804?uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Jorge R. Gutierrez - The Book of Life  artwork&quot; src=&quot;http://is4.mzstatic.com/image/thumb/Video62/v4/96/6c/ba/966cbaae-37ac-e514-6f49-b74c97fb2bbe/pr_source.lsr/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/movie/the-book-of-life/id920639804?uo=2&quot;&gt;The Book of Life&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        Jorge R. Gutierrez
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/movies-kids-family/id4410?uo=2&quot;&gt;Kids &amp; Family&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $4.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $3.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; October 17, 2014
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;This animated comedy from producer Guillermo del Toro and director Jorge Gutierrez follows the journey of Manolo, a young man who embarks on an adventure that spans three fantastical worlds where he must face his greatest fears. Rich with a fresh take on pop music favorites and featuring a unique visual style, it’s a story that encourages us to celebrate the past and look forward to the future.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 2014 Twentieth Century Fox Film Corporation and Reel FX Productions II, LLC.  All rights reserved.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-10-22T16:03:55-07:00</updated>
+				
+					<id im:id="329144864">https://itunes.apple.com/us/movie/hocus-pocus/id329144864?uo=2</id>
+				
+					<title>Hocus Pocus - Kenny Ortega</title>
+				
+					<summary>Hollywood superstar Bette Midler (Beaches) joins Sarah Jessica Parker (Honeymoon in Vegas) and Kathy Najimy (Sister Act) as three outlandishly wild witches who return from 17th Century Salem for a night of zany fun and comic chaos. After they&#39;re accidentally conjured up by some unsuspecting pranksters, the tricky 300-year-old trio sets out to cast a spell on the town and reclaim their youth - but first they must outwit three pesky kids who are determined to foil their scheme! Loaded with bewitching laughs and magical special effects, &#34;Hocus Pocus&#34; is an outrageous comedy that&#39;s sure to entertain everyone.</summary>
+				
+					<im:name>Hocus Pocus</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/hocus-pocus/id329144864?uo=2"/>
+				
+					<im:contentType term="Movie" label="Movie"/>
+				
+					<category im:id="4410" term="Kids &amp; Family" scheme="https://itunes.apple.com/us/genre/movies-kids-family/id4410?uo=2" label="Kids &amp; Family"/>
+				
+					<link title="Preview" rel="enclosure" type="video/x-m4v" href="http://video.itunes.apple.com/apple-assets-us-std-000001/Video118/v4/1d/1d/21/1d1d216e-1dd4-0df8-119a-0a9eda158f6a/mzvf_8583273063883936242.640x480.h264lc.U.p.m4v" im:assetType="preview"><im:duration>114112.0</im:duration></link>
+				
+					<im:artist>Kenny Ortega</im:artist>
+				
+					<im:price amount="9.99000" currency="USD">$9.99</im:price>
+				
+					<im:rentalPrice amount="2.99000" currency="USD">$2.99</im:rentalPrice>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Video1/v4/92/00/a1/9200a1a2-9940-84c8-dfdc-c80bde93bfe3/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is2.mzstatic.com/image/thumb/Video1/v4/92/00/a1/9200a1a2-9940-84c8-dfdc-c80bde93bfe3/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is1.mzstatic.com/image/thumb/Video1/v4/92/00/a1/9200a1a2-9940-84c8-dfdc-c80bde93bfe3/pr_source.lsr/170x170bb-85.jpg</im:image>
+				
+					<rights>&#169; 1993 The Walt Disney Company, All Rights Reserved</rights>
+				
+					<im:releaseDate label="July 16, 1993">1993-07-16T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/movie/hocus-pocus/id329144864?uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Kenny Ortega - Hocus Pocus  artwork&quot; src=&quot;http://is1.mzstatic.com/image/thumb/Video1/v4/92/00/a1/9200a1a2-9940-84c8-dfdc-c80bde93bfe3/pr_source.lsr/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/movie/hocus-pocus/id329144864?uo=2&quot;&gt;Hocus Pocus&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        Kenny Ortega
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/movies-kids-family/id4410?uo=2&quot;&gt;Kids &amp; Family&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $9.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $2.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; July 16, 1993
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Hollywood superstar Bette Midler (Beaches) joins Sarah Jessica Parker (Honeymoon in Vegas) and Kathy Najimy (Sister Act) as three outlandishly wild witches who return from 17th Century Salem for a night of zany fun and comic chaos. After they&amp;#39;re accidentally conjured up by some unsuspecting pranksters, the tricky 300-year-old trio sets out to cast a spell on the town and reclaim their youth - but first they must outwit three pesky kids who are determined to foil their scheme! Loaded with bewitching laughs and magical special effects, &amp;#34;Hocus Pocus&amp;#34; is an outrageous comedy that&amp;#39;s sure to entertain everyone.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; © 1993 The Walt Disney Company, All Rights Reserved&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2017-10-22T16:03:55-07:00</updated>
+				
+					<id im:id="1246483301">https://itunes.apple.com/us/movie/the-big-sick/id1246483301?uo=2</id>
+				
+					<title>The Big Sick - Michael Showalter</title>
+				
+					<summary>Based on the real-life courtship: Pakistan-born comedian Kumail and grad student Emily fall in love, but they struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail must navigate the crisis with her parents and the emotional tug-of-war between his family and his heart.</summary>
+				
+					<im:name>The Big Sick</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://itunes.apple.com/us/movie/the-big-sick/id1246483301?uo=2"/>
+				
+					<im:contentType term="Movie" label="Movie"/>
+				
+					<category im:id="4404" term="Comedy" scheme="https://itunes.apple.com/us/genre/movies-comedy/id4404?uo=2" label="Comedy"/>
+				
+					<link title="Preview" rel="enclosure" type="video/x-m4v" href="http://video.itunes.apple.com/apple-assets-us-std-000001/Video128/v4/13/40/77/134077eb-1671-3239-4f47-d00e1cb0a8f0/mzvf_8340806304875642545.640x458.h264lc.U.p.m4v" im:assetType="preview"><im:duration>133768.0</im:duration></link>
+				
+					<im:artist>Michael Showalter</im:artist>
+				
+					<im:price amount="14.99000" currency="USD">$14.99</im:price>
+				
+					<im:rentalPrice amount="5.99000" currency="USD">$5.99</im:rentalPrice>
+				
+					<im:image height="60">http://is1.mzstatic.com/image/thumb/Video118/v4/d4/5a/da/d45adac8-ad71-aa9a-4ec6-50e4a9161a27/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="60">http://is1.mzstatic.com/image/thumb/Video118/v4/d4/5a/da/d45adac8-ad71-aa9a-4ec6-50e4a9161a27/pr_source.lsr/60x60bb-85.jpg</im:image>
+				
+					<im:image height="170">http://is1.mzstatic.com/image/thumb/Video118/v4/d4/5a/da/d45adac8-ad71-aa9a-4ec6-50e4a9161a27/pr_source.lsr/170x170bb-85.jpg</im:image>
+				
+					<im:releaseDate label="June 23, 2017">2017-06-23T00:00:00-07:00</im:releaseDate>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://itunes.apple.com/us/movie/the-big-sick/id1246483301?uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Michael Showalter - The Big Sick  artwork&quot; src=&quot;http://is1.mzstatic.com/image/thumb/Video118/v4/d4/5a/da/d45adac8-ad71-aa9a-4ec6-50e4a9161a27/pr_source.lsr/170x170bb-85.jpg&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;http://r.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://itunes.apple.com/us/movie/the-big-sick/id1246483301?uo=2&quot;&gt;The Big Sick&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+
+                        Michael Showalter
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;Genre:&lt;/b&gt; &lt;a href=&quot;https://itunes.apple.com/us/genre/movies-comedy/id4404?uo=2&quot;&gt;Comedy&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Price:&lt;/b&gt; $14.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Rental Price:&lt;/b&gt; $5.99
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;Release Date:&lt;/b&gt; June 23, 2017
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;&lt;br/&gt;Based on the real-life courtship: Pakistan-born comedian Kumail and grad student Emily fall in love, but they struggle as their cultures clash. When Emily contracts a mysterious illness, Kumail must navigate the crisis with her parents and the emotional tug-of-war between his family and his heart.&lt;/font&gt;&lt;br/&gt;
+            
+            
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+	</feed>
