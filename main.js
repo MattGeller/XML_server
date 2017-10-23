@@ -6,8 +6,15 @@ $(document).ready(function(){
         url: 'main.php',
         dataType: 'xml',
         success: function(resp){
-            console.log('data seems good',resp);
+            console.log('data seems good', resp);
             //take the table out of the resp object and add it to the DOM
+
+            //put the xml tree into a tempdiv
+            var tempDiv = $('<div>').append($(resp).find('table'));
+
+            //make the contents of temp div into a plantext string and then into the target as actual html
+            $('#target').html(tempDiv.html());
+
 
             // //before an XML document can be accessed, it must be loaded into an XML DOM object
             // const parser = new DOMParser(); //get our parser object ready to use
@@ -22,7 +29,10 @@ $(document).ready(function(){
             //actually, just use jQuery to find the table already made for the front end and add it straight to the dom
 
             // $('document').append(resp);
-            $('#target').html($(resp).find('table'))
+            // $('#target').html($(resp).find('table'))
+
+
+
 
             // $('table').addClass('table')
 
